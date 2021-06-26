@@ -168,6 +168,5 @@ CT_Winning_Versus_Losing <- CT_Winning_Versus_Losing %>% tab_header(
 )
 
 CT_Winning_Versus_Losing
-
 ```
 
